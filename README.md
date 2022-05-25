@@ -9,8 +9,10 @@ We build an application call “Mini tawakkalna” using python programming lang
 its copy from “Tawakkalna” application provided by the Saudi Data and Artificial Intelligence Authority (SDAIA). 
 
 # Installing
-Download 4 .png Photos attached in the repo to get started 
+Download 4 .png Photos attached in the repo to get started
+
 download the main.py file 
+
 change line 35 to the new icontwlogo.ico path 
 change line 149 through 152 to the new pictures path 
 
