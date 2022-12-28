@@ -1,7 +1,7 @@
 # Project Title
 Mini Tawakkanalna Application build using sqlite3 & Python 
 
-It was collaborative between me and @Warreef @httpsbashayer
+It was collaborative between me and @AmaniAlsalmann @httpsbashayer
 
 # Description
 Due to the current situation in the world and what we are going through because of COVID-19
